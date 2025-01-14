@@ -1,0 +1,75 @@
+.body{
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f1efef;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: right;
+  padding: 10px 20px;
+  background-color: #ffffff;
+  border-bottom: 1px solid #e6e6e6;
+  font-family: Arial, sans-serif;
+  border-radius: 50;
+}
+
+/* Logo Section */
+
+
+
+
+/* Links Section */
+.navbar-links {
+  display: flex;
+  gap: 20px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #333333;
+  font-weight: 500;
+}
+
+.nav-link.active {
+  color: #ffffff;
+  background-color: #17a2b8;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+/* Profile Section */
+.navbar-profile {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.profile-info {
+  text-align: right;
+}
+
+.profile-role {
+  display: block;
+  font-size: 12px;
+  color: #777777;
+}
+
+.profile-settings {
+  font-size: 20px;
+  cursor: pointer;
+}
+.nanbar image{
+  display: flex;
+  align-items: center;
+  
+}
+.navbar testLogo{
+   height: 40px; /* Adjust the height as needed */
+     margin-right: 1rem;}
+
+
+
+
